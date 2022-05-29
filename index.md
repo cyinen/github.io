@@ -24,6 +24,6 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 ### Research Experiences
 
 
-**Research Intern**, [<u>Multimedia Search and Mining Group</u>](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, Jul 2021 - present
+**Research Intern**, [<u>Multimedia Search and Mining Group</u>](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, Dec 2021 - present
 
-**Reseach in LMC**, [<u>Lab of Media Computing</u>](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), HFUT, Jul 2021 - present
+**Reseach in LMC**, [<u>Lab of Media Computing</u>](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), HFUT, Oct 2021 - present
