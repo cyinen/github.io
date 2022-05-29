@@ -7,7 +7,7 @@ header-img: "img/home-bg.jpg"
 news: true
 ---
 
-View my [<u>CV</u>]({{ site.url }}/download/CV_Yin_Chen.pdf)
+<!-- View my [<u>CV</u>]({{ site.url }}/download/CV_Yin_Chen.pdf) -->
 
 ### Biography
 
