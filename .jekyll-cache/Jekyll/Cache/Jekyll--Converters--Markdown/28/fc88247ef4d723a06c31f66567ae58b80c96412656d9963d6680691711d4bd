@@ -1,4 +1,4 @@
-I"˜<p>View my <a href="http://localhost:4000/download/CV_Yin_Chen.pdf"><u>CV</u></a></p>
+I"Y<!-- View my [<u>CV</u>](http://localhost:4000/download/CV_Yin_Chen.pdf) -->
 
 <h3 id="biography">Biography</h3>
 
@@ -16,7 +16,7 @@
 
 <h3 id="research-experiences">Research Experiences</h3>
 
-<p><strong>Research Intern</strong>, <a href="https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/"><u>Multimedia Search and Mining Group</u></a>, Microsoft Research Asia, Jul 2021 - present</p>
+<p><strong>Research Intern</strong>, <a href="https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/"><u>Multimedia Search and Mining Group</u></a>, Microsoft Research Asia, Dec 2021 - present</p>
 
-<p><strong>Reseach in LMC</strong>, <a href="https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/"><u>Lab of Media Computing</u></a>, HFUT, Jul 2021 - present</p>
+<p><strong>Reseach in LMC</strong>, <a href="http://ci.hfut.edu.cn/"><u>Lab of Media Computing</u></a>, HFUT, Oct 2021 - present</p>
 :ET
