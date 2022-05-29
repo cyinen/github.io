@@ -15,15 +15,12 @@ header-img: "img/post-bg-rwd.jpg"
 <div class="zh post-container">
 
     <!--copied from markdown -->
-    <blockquote>
-        <p>读万卷书<br>
-            行万里路</p>
-    </blockquote>
+    <blockquote><p>读万卷书<br>
+    行万里路</p></blockquote>
 
     <p>Hey，I'm <strong>Yin</strong>，studied at HFUT。</p>
 
     <!-- <p>工作、学习之余，我还是一个健身爱好者，同时也非常喜欢拳击。</p> -->
-
 
     <h3 id="biography">Biography</h3>
 
@@ -49,7 +46,8 @@ header-img: "img/post-bg-rwd.jpg"
 
     <p><strong>Reseach in LMC</strong>, <a href="http://ci.hfut.edu.cn/"><u>Lab of Media Computing</u></a>, HFUT,
         Oct 2021 - present</p>
-
+    <p></p>
+    
     <!-- <h5>Talks</h5>
 
     <ul>
@@ -60,6 +58,25 @@ header-img: "img/post-bg-rwd.jpg"
     </ul> -->
 </div>
 
+<!-- English Version -->
+<!-- <div class="en post-container">
+    <blockquote><p>Yet another iOS Developer. <br>
+    Yet another Life-long Student.</p></blockquote>
+
+    <p>Hi, I am <strong>Baiying Qiu</strong>，you can call me <strong>BY</strong>. I am an iOS software engineer and currently working in Xiamen</p>
+
+    <p>This is my personal blog, through making Github Pages and Jekyll.My GitHub  👉 <a href="http://github.com/qiubaiying">Github·BY</a>.</p>
+    
+    <p>I am a sports enthusiast, I like fitness, running and boxing.</p>
+
+    <h5>Talks</h5>
+
+    <ul>
+    <li><a href="https://github.com">GitHub</a></li>
+    <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+    <li><a href="https://qiubaiying.github.io">BY</a></li>
+    </ul>
 </div> -->
 
 <!-- Handle Language Change -->
@@ -73,15 +90,15 @@ header-img: "img/post-bg-rwd.jpg"
     window.addEventListener('hashchange', _render);
 
     // handle render
-    function _render() {
+    function _render(){
         var _hash = window.location.hash;
         // en
-        if (_hash == "#en") {
+        if(_hash == "#en"){
             $select.selectedIndex = 1;
             $en.style.display = "block";
             $zh.style.display = "none";
-            // zh by default
-        } else {
+        // zh by default
+        }else{
             // not trigger onChange, otherwise cause a loop call.
             $select.selectedIndex = 0;
             $zh.style.display = "block";
@@ -90,10 +107,10 @@ header-img: "img/post-bg-rwd.jpg"
     }
 
     // handle select change
-    function onLanChange(index) {
-        if (index == 0) {
+    function onLanChange(index){
+        if(index == 0){
             window.location.hash = "#zh"
-        } else {
+        }else{
             window.location.hash = "#en"
         }
     }
@@ -110,14 +127,14 @@ header-img: "img/post-bg-rwd.jpg"
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
 
 <div id="gitalk-container"></div>
-<script type="text/javascript">
+    <script type="text/javascript">
     var gitalk = new Gitalk({
-        clientID: '{{site.gitalk.clientID}}',
-        clientSecret: '{{site.gitalk.clientSecret}}',
-        repo: '{{site.gitalk.repo}}',
-        owner: '{{site.gitalk.owner}}',
-        admin: ['{{site.gitalk.admin}}'],
-        distractionFreeMode: {{ site.gitalk.distractionFreeMode }},
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
     id: 'about',
     });
     gitalk.render('gitalk-container');
@@ -125,7 +142,7 @@ header-img: "img/post-bg-rwd.jpg"
 {% endif %}
 <!-- Gitalk end -->
 
-<!-- disqus 评论框 start  -->
+ <!-- disqus 评论框 start  -->
 {% if site.disqus.enable %}
 
 <div class="comment">
@@ -141,7 +158,7 @@ header-img: "img/post-bg-rwd.jpg"
     var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
     var disqus_url = "{{site.url}}{{page.url}}";
 
-    (function () {
+    (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
@@ -149,3 +166,4 @@ header-img: "img/post-bg-rwd.jpg"
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
+
