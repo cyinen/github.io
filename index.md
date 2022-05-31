@@ -15,7 +15,7 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 
 ### Education
 
-<p style="text-align:left;"><u><a href="http://en.fhut.edu.cn/">Hefei University of Technology (HFUT).</a></u><span style="float:right;">Sep 2018 - July 2022</span></p>
+<p style="text-align:left;"><u><a href="https://www.hfut.edu.cn/">Hefei University of Technology (HFUT).</a></u><span style="float:right;">Sep 2018 - July 2022</span></p>
 
 - Major in Electronic Information Engineering(expected in Jul 2022)
 - Bachelor of Engineering

@@ -112,3 +112,6 @@ service-worker: true
 #         href: "https://developer.apple.com/"
 #     }
 # ]
+
+gems: [jekyll-paginate]
+paginate: 12
