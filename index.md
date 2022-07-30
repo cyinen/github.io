@@ -17,7 +17,7 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 
 <p style="text-align:left;"><u><a href="https://www.hfut.edu.cn/">Hefei University of Technology (HFUT).</a></u><span style="float:right;">Sep 2018 - July 2022</span></p>
 
-- Major in Electronic Information Engineering(expected in Jul 2022)
+- Major in Electronic Information Engineering
 - Bachelor of Engineering
 - GPA (overall): **3.77/4.3 (88.6/100)**, ranking: **7/150 (top 5%)**
 
