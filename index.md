@@ -24,11 +24,12 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 ### Research Experiences
 
 
+
 **Research Intern**, [<u>Multimedia Search and Mining Group</u>](https://www.microsoft.com/en-us/research/group/multimedia-search-and-mining/), Microsoft Research Asia, Dec 2021 - present
 
 **Reseach in LMC**, [<u>Lab of Media Computing</u>](http://ci.hfut.edu.cn/), HFUT, Oct 2021 - present
 
 ## Project
 [<u>DaVinci Image/Video Enhancement Toolkit <u>](https://github.com/microsoft/DaVinci)
-https://user-images.githubusercontent.com/56926538/180158453-436e44c1-e390-46d1-9cca-ec803a98af47.mp4
+![ISR_Demo](https://user-images.githubusercontent.com/56926538/183388414-abb6d33c-4cc1-4382-ad43-5c310e0efd72.png)
   
