@@ -28,5 +28,5 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 
 **Reseach in LMC**, [<u>Lab of Media Computing</u>](http://ci.hfut.edu.cn/), HFUT, Oct 2021 - present
 
-**Project
+**Project**
 [<u>DaVinci Image/Video Enhancement Toolkit <u>](https://github.com/microsoft/DaVinci)
