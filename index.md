@@ -32,6 +32,5 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 ## Project
 [<u>DaVinci Image/Video Enhancement Toolkit <u>](https://github.com/microsoft/DaVinci)
   
-  
-![ISR_Demo](https://user-images.githubusercontent.com/56926538/183388414-abb6d33c-4cc1-4382-ad43-5c310e0efd72.png)
+ <img src="https://user-images.githubusercontent.com/56926538/183388414-abb6d33c-4cc1-4382-ad43-5c310e0efd72.png" style="height:50%">
   
