@@ -32,6 +32,8 @@ I am Yin Chen (陈银 in Chinese), a senior student at the Department of Electro
 ## Project
 
 [<u>DaVinci Image/Video Enhancement Toolkit </u>](https://github.com/microsoft/DaVinci)
-  
+
+DaVinci toolkit aims at high-quality multimedia content creation which plays an important role in modern work and life. The targeted features can include both low-level image and video enhancement tasks, and high-level visual editing tasks.
+
  <img src="https://user-images.githubusercontent.com/56926538/183388414-abb6d33c-4cc1-4382-ad43-5c310e0efd72.png" style="width:100%">
   
