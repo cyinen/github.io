@@ -11,7 +11,7 @@ github_repo: "https://github.com/cyinen/cyinen.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Welcome!"
+sidebar-about-description: "Keep curious about the world!"
 sidebar-avatar: /img/yinc.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
